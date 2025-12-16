@@ -23,7 +23,6 @@ This web application supports **Admins, Doctors, and Patients** with secure auth
 - Manage user roles (Admin / Doctor / Patient)
 - Override and manage appointments
 
--
 
 ### 🩺 Doctor Features
 - Doctor profile management
